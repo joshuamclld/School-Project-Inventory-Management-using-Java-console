@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/CSV%20Export-Available-orange?style=for-the-badge" alt="CSV Export"/>
 </p>
 
-<h1 align="center">🍽️ Cabanding's Eatery Inventory Management</h1>
+<h1 align="center">Case Study Inventory Management</h1>
 
 <p align="center">
    <b>A modern, object-oriented Java console app for managing eatery inventory.</b><br>
